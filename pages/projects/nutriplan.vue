@@ -18,9 +18,7 @@
 
         <!-- Screenshot -->
         <div class="bg-gray-800 rounded-xl p-4 border border-gray-700 mb-12">
-          <div class="aspect-video bg-gray-900 rounded-lg flex items-center justify-center text-gray-500">
-            NutriPlan Dashboard Screenshot
-          </div>
+          <img src="/img/recipes-ipad.png" alt="NutriPlan recipe view">
         </div>
 
         <!-- Content -->
